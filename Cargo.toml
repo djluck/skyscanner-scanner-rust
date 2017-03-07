@@ -1,0 +1,8 @@
+[package]
+
+name = "skyscanner-scanner"
+version = "0.0.1"
+authors = ["James Luck"]
+
+[dependencies]
+chrono = "0.3"
